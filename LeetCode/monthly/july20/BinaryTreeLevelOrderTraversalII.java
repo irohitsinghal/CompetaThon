@@ -3,10 +3,6 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Queue;
 
-import javax.swing.tree.TreeNode;
-
-import sun.swing.BakedArrayList;
-
 public class BinaryTreeLevelOrderTraversalII {
 
     static class TreeNode {
